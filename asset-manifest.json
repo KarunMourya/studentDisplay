@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/studentDisplayApplication/static/css/main.149cf86f.css",
-    "main.js": "/studentDisplayApplication/static/js/main.0b92b161.js",
-    "static/js/712.7cb9388d.chunk.js": "/studentDisplayApplication/static/js/712.7cb9388d.chunk.js",
-    "static/js/924.cb58c5c4.chunk.js": "/studentDisplayApplication/static/js/924.cb58c5c4.chunk.js",
-    "static/js/951.af4d6f4a.chunk.js": "/studentDisplayApplication/static/js/951.af4d6f4a.chunk.js",
-    "static/js/427.af50fd93.chunk.js": "/studentDisplayApplication/static/js/427.af50fd93.chunk.js",
-    "static/js/478.c76766db.chunk.js": "/studentDisplayApplication/static/js/478.c76766db.chunk.js",
-    "static/js/834.11be1f62.chunk.js": "/studentDisplayApplication/static/js/834.11be1f62.chunk.js",
-    "static/js/889.4c5ed560.chunk.js": "/studentDisplayApplication/static/js/889.4c5ed560.chunk.js",
-    "index.html": "/studentDisplayApplication/index.html",
-    "main.149cf86f.css.map": "/studentDisplayApplication/static/css/main.149cf86f.css.map",
-    "main.0b92b161.js.map": "/studentDisplayApplication/static/js/main.0b92b161.js.map",
-    "712.7cb9388d.chunk.js.map": "/studentDisplayApplication/static/js/712.7cb9388d.chunk.js.map",
-    "924.cb58c5c4.chunk.js.map": "/studentDisplayApplication/static/js/924.cb58c5c4.chunk.js.map",
-    "951.af4d6f4a.chunk.js.map": "/studentDisplayApplication/static/js/951.af4d6f4a.chunk.js.map",
-    "427.af50fd93.chunk.js.map": "/studentDisplayApplication/static/js/427.af50fd93.chunk.js.map",
-    "478.c76766db.chunk.js.map": "/studentDisplayApplication/static/js/478.c76766db.chunk.js.map",
-    "834.11be1f62.chunk.js.map": "/studentDisplayApplication/static/js/834.11be1f62.chunk.js.map",
-    "889.4c5ed560.chunk.js.map": "/studentDisplayApplication/static/js/889.4c5ed560.chunk.js.map"
+    "main.css": "/studentDisplay/static/css/main.149cf86f.css",
+    "main.js": "/studentDisplay/static/js/main.241f2631.js",
+    "static/js/712.7cb9388d.chunk.js": "/studentDisplay/static/js/712.7cb9388d.chunk.js",
+    "static/js/924.cb58c5c4.chunk.js": "/studentDisplay/static/js/924.cb58c5c4.chunk.js",
+    "static/js/951.af4d6f4a.chunk.js": "/studentDisplay/static/js/951.af4d6f4a.chunk.js",
+    "static/js/427.af50fd93.chunk.js": "/studentDisplay/static/js/427.af50fd93.chunk.js",
+    "static/js/478.c76766db.chunk.js": "/studentDisplay/static/js/478.c76766db.chunk.js",
+    "static/js/834.11be1f62.chunk.js": "/studentDisplay/static/js/834.11be1f62.chunk.js",
+    "static/js/889.4c5ed560.chunk.js": "/studentDisplay/static/js/889.4c5ed560.chunk.js",
+    "index.html": "/studentDisplay/index.html",
+    "main.149cf86f.css.map": "/studentDisplay/static/css/main.149cf86f.css.map",
+    "main.241f2631.js.map": "/studentDisplay/static/js/main.241f2631.js.map",
+    "712.7cb9388d.chunk.js.map": "/studentDisplay/static/js/712.7cb9388d.chunk.js.map",
+    "924.cb58c5c4.chunk.js.map": "/studentDisplay/static/js/924.cb58c5c4.chunk.js.map",
+    "951.af4d6f4a.chunk.js.map": "/studentDisplay/static/js/951.af4d6f4a.chunk.js.map",
+    "427.af50fd93.chunk.js.map": "/studentDisplay/static/js/427.af50fd93.chunk.js.map",
+    "478.c76766db.chunk.js.map": "/studentDisplay/static/js/478.c76766db.chunk.js.map",
+    "834.11be1f62.chunk.js.map": "/studentDisplay/static/js/834.11be1f62.chunk.js.map",
+    "889.4c5ed560.chunk.js.map": "/studentDisplay/static/js/889.4c5ed560.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.149cf86f.css",
-    "static/js/main.0b92b161.js"
+    "static/js/main.241f2631.js"
   ]
 }

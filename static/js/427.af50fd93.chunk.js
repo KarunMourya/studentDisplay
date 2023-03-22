@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstudentdisplayboard=self.webpackChunkstudentdisplayboard||[]).push([[427],{5427:function(n,t,u){u.r(t);u(2791);var d=u(184);t.default=function(){return(0,d.jsx)("div",{children:"NotFound"})}}}]);
+//# sourceMappingURL=427.af50fd93.chunk.js.map
